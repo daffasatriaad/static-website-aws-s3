@@ -69,8 +69,3 @@ Website dapat diakses melalui link berikut:
   ]
 }
 ```
-## 🖼 Screenshot Website
-
-Tampilan website statis yang berisi tautan ke profil LinkedIn saya:
-
-![Tampilan Website](screencapture-web-portofolio-daffa-s3-website-ap-southeast-1-amazonaws-2025-06-21-23_42_13)
