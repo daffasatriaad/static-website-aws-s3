@@ -69,3 +69,24 @@ Website dapat diakses melalui link berikut:
   ]
 }
 ```
+
+### 5. Mengakses Website
+
+- Dapatkan bucket website endpoint di tab Properties.
+- Buka link tersebut di browser.
+
+---
+
+## 📚 Pelajaran yang Didapat
+
+- Membuat dan menghosting website statis di Amazon S3.
+- Mengelola bucket policy untuk akses publik.
+- Memahami konsep hosting tanpa server (serverless).
+
+---
+
+👤 Author
+
+Daffa Satria Adi Dharma
+
+---
