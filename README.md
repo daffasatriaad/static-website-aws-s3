@@ -90,3 +90,9 @@ Website dapat diakses melalui link berikut:
 Daffa Satria Adi Dharma
 
 ---
+
+## 📌 Catatan
+
+Proyek ini adalah bagian dari portofolio cloud computing saya untuk level pemula. Website dapat dikembangkan lebih lanjut menggunakan custom domain, CloudFront, dan SSL untuk meningkatkan performa dan keamanan.
+
+---
